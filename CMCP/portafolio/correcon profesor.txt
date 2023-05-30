@@ -1,0 +1,13 @@
+Título	Prácticas
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	08-nov-2022 9:23
+Calificación	3,30 (máx 4,00)
+
+E2: Falta mostrar cómo se obtiene el número de hilo.
+E3: Se paraleliza solo el bucle i. Se pedía paralelizar los tres y comparar las tres versiones.
+E4: La solución no es correcta, faltan un montón de variables privadas. Probablemente la figura generada en paralelo no coincide con la secuencial. Falta también la comparación de diferentes planificaciones.
+E5: No se muestra el script utilizado para las colas.
+E7: Falta resolver la secuencialización mediante protocolo pares-impares o similar.
+E9: En el MPI_Gather la recepción debería hacerse en &aux2[ld].
+E10: Incompleto. En main() se usa un tipo MPI column_not_resized que no ha sido definido previamente. El MPI_Gather no usa los tipos nuevos. La comunicación de jacobi_step_parallel sí está bien.
+E13: La comparación de la versión cuBLAS se hace con un tamaño de matriz distinto, sería más justo usar el mismo tamaño.

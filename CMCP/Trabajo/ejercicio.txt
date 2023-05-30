@@ -1,0 +1,1 @@
+Para este proyecto se eligio el Producto matriz-vector con matriz banda con solapamiento
