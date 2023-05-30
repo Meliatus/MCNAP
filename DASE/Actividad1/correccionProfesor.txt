@@ -1,0 +1,17 @@
+us respuestas han sido correctas (aunque muy breves) en todos los apartados de la actividad. En el cuarto apartado pareces confundir el modelo de gestión de fallos de conectividad de partición primaria con el modelo de replicación pasiva. No obstante, tu justificación sigue siendo correcta.
+
+Obtienes un 9 sobre 10 en esta actividad. ¡Enhorabuena!
+
+---------------------------------------------------------------------
+
+COMENTARIOS FINALES:
+
+Has resuelto el ejercicio 7 del Tema 2. En él se describen cinco escenarios en los que un determinado servicio trata de garantizar ciertas propiedades y debe razonarse si podrá hacerlo según las restricciones que impone el Teorema CAP.
+
+Tus respuestas en los cinco apartados son correctas y su justificación tiene una extensión breve, pero suficiente, pues sí que llegas a razonar cómo afecta el Teorema CAP a la situación descrita.
+
+El único defecto que he encontrado se da en el apartado "d", donde se indicaba que en caso de que hubiera particiones, estas se gestionarían utilizando el modelo de partición primaria. En el primer párrafo de tu respuesta pareces confundir ese modelo de gestión de fallos de conectividad con la replicación pasiva. El modelo de partición primaria no condiciona qué modelo de replicación podrá utilizarse, pero suele estar asociado con consistencia fuerte, como pueda ser la secuencial. En ese modelo de partición primaria, cuando se pierda la conectividad entre los nodos, solo se permitirá que continúe el subgrupo de nodos que mantenga una mayoría de los nodos existentes desde un inicio en el sistema, en caso de que alguno llegue a esa mayoría. 
+
+A pesar de ese defecto, tu justificación en el segundo párrafo es correcta, aunque muy breve y convendría haberla extendido algo más.
+
+Obtienes un 9 sobre 10 en esta cuestión. Esto aporta 1.8 puntos (pues cada actividad tiene un 20% del peso de la calificación global de la asignatura) a tu nota global.
