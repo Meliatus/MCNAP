@@ -1,0 +1,6 @@
+Título	Examen Práctico - PGC 2023
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	14-mar-2023 19:16
+Calificación	7,40 (máx 10,00)
+
+1: Falta el tag en el nombre de la imagen; 2: La imagen no tiene como entrypoint el servidor ssh, por lo que hay que arrancarlo a mano.; 3: Los contenedores no arrancan el ssh automáticamente, hay que forzarlo en el comando de inicio.; 4: Para la comaprtición del ejecutable lo razonable es utilizar un volumen (no se menciona que debe de ser un volumen en red). La solución del configmap no es adecuada, ya que los configmap se inyectan en el despliegue.

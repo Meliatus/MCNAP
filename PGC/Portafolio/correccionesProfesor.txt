@@ -1,0 +1,9 @@
+Título	Entrega portafolio PGC - 2023
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	19-mar-2023 18:41
+Calificación	9,60 (máx 10,00)
+Puntuaciones apartados: 1.1: 10; 1.2: 10: 1.3: 10; 1.4: ; 1.5: 10; 1.6: 10; 2.1: 10; 2.2: 7; 2.3: 10; 2.4: 10; 2.5:
+
+ 
+
+1.1: Correcto; 1.2: Correcto: 1.3: Correcto; 1.4: ; 1.5: Correcto; 1.6: Correcto; 2.1: Correcto; 2.2: Los dos servicios montan el mismo fichero index.html. Hubiera sido deseable tener dos ficheros diferentes para demostrar el uso compartido de un pvc. Faltan los comandos de acceso a las URLs a través del servicio de ingress.; 2.3: Correcto; 2.4: Correcto; 2.5:
