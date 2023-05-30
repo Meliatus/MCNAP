@@ -12,7 +12,7 @@ Parte 2
 
 Parte 3
 -El tema es muy interesante y está bien desarrollado.
--La segunda gráfica tiene una relación datos-tinta bastante pobre. Usas casi media página para representar 3 valores escalares.
+-La segunda gráfica tiene una relación datos-tinta bastante pobre. Usas casi media página, para representar 3 valores escalares.
 -La última gráfica es el ejemplo típico donde se debería haber utilizado una gráfica de líneas, ya que la variable X es independiente y continua (aunque los datos los tengas año a año), y la dependiente también. Una gráfica de líneas permite ver mejor la evolución que la de barras. La leyenda tampoco tiene mucho sentido. En vez de usar tantos colores se debería haber puesto etiquetas en el eje X.
 
 P1	P2	P3	Total
