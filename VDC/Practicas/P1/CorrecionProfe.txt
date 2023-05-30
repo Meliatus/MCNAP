@@ -1,0 +1,19 @@
+Título	Práctica 1. Visualizaciones básicas
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	05-mar-2023 1:15
+Calificación	8,30 (máx 10,00)
+Parte 1
+-Está bien combinar todas las fuentes para facilitar su comparación, pero hay demasiada oclusión y apenas se ve los datos de la fuente 2. Se debería haber usado una línea más fina, o haber hecho una gráfica por fuente.
+-Muy bien por usar la caja de bigotes para comparar la variabilidad de las fuentes, aunque la leyenda del eje X no tiene mucho sentido.
+
+Parte 2
+-El estudio es bastante exhaustivo, enhorabuena. El único pero que tengo es en la gráfica de Cuatrimestre vs Notas, ya que has diseñado una gráfica que usa más o menos media hoja para representar tres valores escalares (muy baja relación entre datos-tinta).
+
+
+Parte 3
+-El tema es muy interesante y está bien desarrollado.
+-La segunda gráfica tiene una relación datos-tinta bastante pobre. Usas casi media página para representar 3 valores escalares.
+-La última gráfica es el ejemplo típico donde se debería haber utilizado una gráfica de líneas, ya que la variable X es independiente y continua (aunque los datos los tengas año a año), y la dependiente también. Una gráfica de líneas permite ver mejor la evolución que la de barras. La leyenda tampoco tiene mucho sentido. En vez de usar tantos colores se debería haber puesto etiquetas en el eje X.
+
+P1	P2	P3	Total
+8	9,5	7,5	8,3
