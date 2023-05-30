@@ -1,0 +1,19 @@
+Título	Práctica 3. Visualización de datos escalares
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	20-mar-2023 21:22
+Calificación	7,60 (máx 13,00)
+
+P1
+-Los colores del mapa de arco iris están al revés. ¿Por qué no has implementado el algoritmo de la transparencia 10?
+-Los colores del mapa de calor también están mal. Este mapa estaba en la traspa 15
+
+P2
+-Las intersecciones parece que están bien calculadas, pero no se han construido los segmentos que componen los contornos.
+
+
+P3 (opcional)
+
+ 
+
+P1	P2	P3	Total
+0,7	0,8		7,6

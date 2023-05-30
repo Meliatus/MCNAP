@@ -1,0 +1,19 @@
+Título	Práctica 4. Visualización de datos vectoriales
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	26-mar-2023 19:09
+Calificación	6,80 (máx 12,00)
+
+P1
+-La escala de color está mal. No está equilibrado el rango de color entre los dos extremos.
+
+P2
+
+P3
+
+P4
+-No entregada
+
+P5 (opcional)
+
+P1	P2	P3	P4	P5	Total
+0,7	1	1			6,8

@@ -1,0 +1,22 @@
+Título	Práctica 2. Representación de datos
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	12-mar-2023 12:19
+Calificación	6,60 (máx 10,00)
+
+Parte 1
+
+Parte 2
+
+Parte 3
+
+Parte 4
+-Sólo implementada la malla rectilínea
+
+Parte 5
+-El cálculo de r y s está mal. getCellSamples siempre devuelve los vértices de una celda en el mismo orden (el mostrado, p.e., en la traspa 24). De esa forma, la primera muestra que devuelve siempre es la de coordenadas (0, 0) en la celda de referencia.
+-No has tenido en cuenta que cada celda puede dar un valor distinto para el mismo punto (un vértice puede estar compartido hasta por 4 celdas, y para ese vértice, cada celda tendrá una derivada distinta). Había que promediar todas las derivadas de cada vértice.
+
+ 
+
+P1	P2	P3	P4	P5	Total
+1	1	1	0,33	0,3	6,6
