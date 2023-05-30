@@ -1,0 +1,16 @@
+Título	Boletín de Actividades de CUDA
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	20-ene-2023 17:46
+Calificación	2,30 (máx 2,40)
+
+Ejercicio  1         0.00
+Ejercicio  2         0.00
+Ejercicio  3         0.15
+Ejercicio  4         0.10
+Ejercicio  5         0.40
+Ejercicio  6         0.50
+Ejercicio  7         0.00
+Ejercicio  8         0.60
+Ejercicio  9         0.15
+Ejercicio 10         0.15 (0.25) Faltaría una gráfica comparando la versión con y sin Streams.
+Ejercicio 11         0.25

@@ -1,0 +1,16 @@
+Título	Boletín de Ejercicios de TBB
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	09-feb-2023 17:42
+Calificación	1,50 (máx 1,80)
+
+Puntuación
+Actividad  1    0.00
+Actividad  2    0.20
+Actividad  3    0.20
+Actividad  4    0.35 (0.50)
+Actividad  5    0.15
+Actividad  6    0.20
+Actividad  7    0.00 (0.15) No veo clara esta implementación.
+Actividad  8    0.10
+Actividad  9    0.15
+Actividad 10  0.15

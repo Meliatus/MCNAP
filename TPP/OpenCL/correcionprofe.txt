@@ -1,0 +1,5 @@
+
+Título	Boletín de Ejercicios de OpenCL
+Estudiante	Javier Meliá Sevilla
+Fecha de envío	20-ene-2023 16:10
+Calificación	1,20 (máx 1,20)
